@@ -1,0 +1,180 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+
+body
+{
+	position: relative;
+	background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(SFBackground.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+	background-repeat: repeat;
+	background-color: #6DB3F2;
+}
+
+h1
+{
+	color: white;
+	text-decoration: none;
+	padding: 20px 20px;
+	font-family: Optima, sans-serif;
+	font-size: 40px;
+	float: left;
+}
+
+p
+{
+	color: white;
+	margin-top: 10px;
+	text-align: justify;
+	text-justify: inter-word;
+	margin-right: 100px;
+}
+
+.main-nav
+{
+	list-style: none;
+	margin-top: 30px;
+	margin-right: 20px;
+	margin-left: 650px;
+}
+
+.main-nav li
+{
+	display: inline-block;
+}
+
+.main-nav li a
+{
+	color: white;
+	text-decoration: none;
+	padding: 5px 20px;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-size: 20px;
+}
+
+
+.main-nav a:hover
+{
+	background-color: #ddd;
+	color: black;
+}
+
+.hello
+{
+	position: absolute;
+	width: 1400px;
+	margin-left: 0px;
+	margin-top: 250px;
+}
+
+h2
+{
+	color: white;
+	font-family: Optima, sans-serif;
+	font-size: 40px;
+	text-align: center;
+	margin-top: 10px;
+	margin-left: 90px;
+	
+}
+
+.learn-more
+{
+	position: absolute;
+	width: 1400px;
+	margin-left: 0px;
+	margin-top: 10px;
+}
+
+.learn-more li
+{
+	display: inline-block;
+	text-align: center;
+	margin-left: 400px;
+	margin-top: 25px;
+}
+
+.learn-more li a
+{
+	color: white;
+	text-decoration: none;
+	padding: 5px 20px;
+	font-family: Optima, sans-serif;
+	font-size: 20px;
+	outline-style: solid;
+	
+}
+
+.learn-more a:hover
+{
+	background-color: #ddd;
+	color: black;
+}
+
+.AboutText
+{
+	width: 1200px;
+	margin-top: 0px;
+	margin-left: 20px;
+}
+
+.profilepic
+{
+	margin-bottom: 20px;
+	margin-left: 50px;
+	margin-top: 50px;
+	margin-right: 50px;
+}
+
+.contact
+{
+	position: absolute;
+	width: 1400px;
+	margin-left: 0px;
+	margin-top: 250px;
+	
+}
+
+.contact li
+{
+	display: inline-block;
+	text-align: center;
+	margin-left: 270px;
+	margin-top: 25px;
+	
+}
+
+.contact li a
+{
+	color: white;
+	text-decoration: none;
+	padding: 5px 20px;
+	font-family: Optima, sans-serif;
+	font-size: 20px;
+	outline-style: solid;
+	
+}
+
+.contact a:hover
+{
+	background-color: #ddd;
+	color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
